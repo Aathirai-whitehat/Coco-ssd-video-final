@@ -1,0 +1,39 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    font-family: 'Acme', sans-serif;
+}
+
+.heading{
+    width: 100%;
+    color: rgb(50, 14, 68);
+    margin: 0px;
+    font-size: 30px;
+}
+
+.start{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.buttons{
+    font-size: 20px;
+}
+
+.footer{
+    bottom: 0;
+    position: absolute;
+    font-size: 20px;
+    background-color: goldenrod;
+    color: rgb(241, 12, 46);
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
+
+canvas{
+    border: 5px solid royalblue;
+    box-shadow: 10px 10px 10px darkcyan; 
+    border-radius: 20px;
+    margin-top: 60px;
+}
